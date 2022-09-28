@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//Hava-Durumu/static/css/main.55366816.css",
-    "main.js": "//Hava-Durumu/static/js/main.867e2b45.js",
-    "index.html": "//Hava-Durumu/index.html",
-    "main.55366816.css.map": "//Hava-Durumu/static/css/main.55366816.css.map",
-    "main.867e2b45.js.map": "//Hava-Durumu/static/js/main.867e2b45.js.map"
+    "main.css": "/Hava-Durumu/static/css/main.55366816.css",
+    "main.js": "/Hava-Durumu/static/js/main.867e2b45.js",
+    "index.html": "/Hava-Durumu/index.html",
+    "main.55366816.css.map": "/Hava-Durumu/static/css/main.55366816.css.map",
+    "main.867e2b45.js.map": "/Hava-Durumu/static/js/main.867e2b45.js.map"
   },
   "entrypoints": [
     "static/css/main.55366816.css",
